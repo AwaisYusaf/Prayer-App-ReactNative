@@ -1,0 +1,2 @@
+
+    // "react-native-styled-datepicker": "^1.0.5",
